@@ -5,7 +5,7 @@ session_start();
 <html lang="pt-br">
 	<head>
 		<meta charset="utf-8">
-		<title>Celke - Login</title>
+		<title>Criptografando sistema - Login</title>
 	</head>
 	<body>
 		<h2>Área restrita</h2>
@@ -27,7 +27,7 @@ session_start();
 		</form>
 		<br><br><br>
 		Usuário cadastrado no Banco de Dados<br>
-		Usuário: cesar@celke.com.br <br>
+		Usuário: teste@gmail.com<br>
 		Senha: 123 <br>
 	</body>
 </html>
